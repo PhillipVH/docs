@@ -51,7 +51,7 @@ Open the *ClassLibraryDemo* folder.  You should see the following files:
 
 Open `Script.fsx`, and add the following code at the end of it:
 
-[!code-fsharp[ToPigLatin](../../../samples/snippets/fsharp/getting-started/to-pig-latin.fsx)]
+[!code-fsharp[ToPigLatin](https://github.com/dotnet/samples/blob/9a2255058489f7fb53b15863c75bbd562a92bc8c/snippets/fsharp/getting-started/to-pig-latin.fsx#L1-L11)]
 
 This function converts a word to a form of [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin). The next step is to evaluate it using F# Interactive (FSI).
 
